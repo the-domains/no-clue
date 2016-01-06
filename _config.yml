@@ -1,0 +1,28 @@
+name: No Clue
+favicon: null
+layout_spectrum: 0.7259108708240092
+typography_spectrum: 0.6878809013869613
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5816679825074971
+  lightness: 0.9570605889894068
+  saturation: 0.273035028250888
+  rhythmicContrast: 0.2620515781454742
+purpose: []
